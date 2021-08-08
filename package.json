@@ -1,0 +1,12 @@
+{
+  "name": "GhostBot",
+  "version": "0.0.0",
+  "description": "Esta será una versión mejorada del Ghostbot conocido en más de 100 grupos ",
+  "main": "QR.js",
+  "scripts": {
+  "start": "QR.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
