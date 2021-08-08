@@ -2,9 +2,9 @@
   "name": "GhostBot",
   "version": "0.0.0",
   "description": "Esta será una versión mejorada de Ghostbot conocido en más de 100 grupos ",
-  "main": "qr.js",
+  "main": "samu330.js",
   "scripts": {
-  "start": "qr.js"
+  "start": "samu330.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
